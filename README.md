@@ -1,8 +1,7 @@
-# Angular Core Workshop
+# Angular Material Dashboard
 
-We are going to use the Angular CLI and NRWL Extensions extensively in the workshop to streamline development and free us up to focus on core concepts.
+We are going to use the Angular CLI and NRWL Extensions 
 
-Follow the steps below to get started!
 
 ## The Stack
 
@@ -30,11 +29,10 @@ After you have installed the Angular CLI, install `@nrwl/schematics`.
 ```
 npm install -g @nrwl/schematics
 ```
+Follow the steps to run the project 
 
-After installing it you can create a new Nx workspace by running:
+1) clone/download
 
-```
-create-nx-workspace angular-core-workshop
-```
+2) npm install
 
-You are good to go!
+3) npm start
